@@ -1,0 +1,98 @@
+body {
+  background-color: pink;
+}
+.Contener {
+  width: 100vw;
+}
+.Zag > .Arbo {
+  margin-left: 0;
+}
+.Zag > .Number {
+  display: none;
+}
+.Zag > .Bl {
+  display: none;
+}
+.Chast > .Nazv {
+  width: 470px;
+  font-size: 150%;
+  margin-top: 70px;
+  text-align: center;
+}
+.Chast > .Text {
+  width: 470px;
+  font-size: 15px;
+  margin-top: 50px;
+  text-align: center;
+}
+.Chast {
+  margin-left: 0px;
+  width: 470px;
+}
+.Zag > .fas {
+  font-size: 150%;
+  margin-left: 230px;
+}
+.Zag > .Menu {
+  font-size: 150%;
+  display: inline;
+  margin-left: 20px;
+}
+.Niz > .Right {
+  margin-left: 0px;
+}
+.Niz > .Left {
+  margin-top: 0px;
+  margin-left: 7px;
+  width: 450px;
+  height: 210px;
+}
+.Abz > .Con {
+  text-align: left;
+  margin-top: 15px;
+  width: 470px;
+}
+.Contener {
+  width: 480px;
+}
+.Niz {
+  width: 470px;
+}
+.Abz > .Sr {
+  width: 470px;
+}
+.Str > .Nazv2 {
+  width: 470px;
+  font-size: 150%;
+}
+.Str > .celoe {
+  width: 470px;
+  text-align: left;
+}
+.Left1 > .OneSt {
+  width: 470px;
+}
+.Left1 > .Noth {
+  width: 470px;
+}
+.Left1 > .Task {
+  margin-top: 20px;
+  width: 470px;
+}
+.Str > .Nazv2 {
+  width: 470px;
+  font-size: 150%;
+  margin-top: 70px;
+  text-align: center;
+}
+.Left1 > .Task {
+  width: 470px;
+  font-size: 20px;
+  text-align: left;
+}
+.Left1 > .OneSt {
+  width: 470px;
+  font-size: 17px;
+  text-align: left;
+  margin-top: 15px;
+}

@@ -1,0 +1,225 @@
+.Arbo {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 150%;
+  font-weight: bold;
+  margin-left: 50px;
+  display: inline;
+}
+.Number {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: inline;
+  margin-left: 500px;
+}
+.Bl {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: inline-block;
+  color: white;
+  background-color: rgb(27, 176, 196);
+  padding: 10pt;
+  border-radius: 10px;
+  margin-left: 50px;
+}
+.bar1,
+.bar2,
+.bar3 {
+  width: 35px;
+  height: 5px;
+  background-color: #333;
+  margin: 5px 0;
+  margin-left: 50px;
+}
+.Menu {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 150%;
+  display: inline;
+  margin-left: 30px;
+}
+.ICON {
+  color: rgb(0, 0, 0);
+  font-size: 200%;
+  margin-left: 350px;
+}
+.Zag {
+  align-items: center;
+  display: flex;
+  width: 100%;
+}
+.Nazv {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 300%;
+  text-align: center;
+  margin-top: 150px;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+}
+.Text {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 100%;
+  text-align: center;
+  width: 850px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 30px;
+}
+.Left {
+  background-image: url(jpeg/qL4zcIPaGyE.jpg);
+  background-size: cover;
+  width: 490px;
+  height: 230px;
+  margin-top: 55px;
+  margin-left: 100px;
+  display: inline-block;
+}
+.Verh {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 200%;
+  text-align: left;
+  font-weight: bold;
+}
+.Right {
+  width: 600;
+  height: 460;
+  display: inline-block;
+  margin-left: 100px;
+}
+.Abz {
+  width: 600;
+  height: 460;
+  text-align: center;
+}
+.Sr {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 100%;
+  text-align: left;
+  margin-top: 15px;
+}
+.fas {
+  margin-top: 15px;
+}
+.Con {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: left;
+  margin-top: 15px;
+}
+.Niz {
+  margin-top: 50px;
+}
+.Contener {
+  width: 1300px;
+  margin: 0 auto;
+  position: relative;
+}
+.Nazv2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 300%;
+  text-align: center;
+  margin-top: 50px;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+}
+.Task {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 150%;
+  text-align: left;
+  font-weight: bold;
+  margin-top: 30px;
+}
+.OneSt {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 100%;
+  margin-top: 20px;
+  text-align: left;
+}
+.Left1 {
+  width: 600px;
+  display: inline-block;
+}
+.Noth {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 100%;
+  text-align: left;
+  margin-top: 20px;
+}
+body {
+  background-color: azure;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Grad {
+  position: relative;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 100%;
+  margin: 15px 0;
+}
+.Mask {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(180deg, transparent, rgba(255, 255, 255, 0.7));
+}
+.cirkle {
+  margin-top: 15px;
+}
+.Bat {
+  color: cornflowerblue;
+  background-color: white;
+  border: 2px solid royalblue;
+  margin: 0 auto;
+  display: block;
+  width: 100px;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+}
+.bat:hover {
+  color: white;
+  background-color: cornflowerblue;
+}
+.Form {
+  background-color: white;
+  color: hsl(0, 0%, 0%);
+  border-radius: 20px;
+  width: 500px;
+  margin-left: 100px;
+}
+.Right1 {
+  width: 600;
+  display: inline-block;
+}
+.Form_estimation {
+  border-radius: 20px;
+  color: hsl(0, 0%, 0%);
+  background-color: lightgray;
+  width: 300px;
+  height: 50px;
+  margin-left: 50px;
+  margin-top: 50px;
+  font-size: 100%;
+}
+.Form_make_a_call {
+  border-radius: 20px;
+  color: hsl(0, 0%, 0%);
+  background-color: lightgray;
+  width: 300px;
+  height: 50px;
+  margin-top: 20px;
+  margin-left: 50px;
+  font-size: 100%;
+}
+.Form_lead_generation {
+  border-radius: 20px;
+  color: hsl(0, 0%, 0%);
+  background-color: lightgray;
+  width: 300px;
+  height: 50px;
+  margin-top: 20px;
+  margin-left: 50px;
+  font-size: 100%;
+}
+.Form_task {
+  font-size: 200%;
+  margin-left: 50px;
+}
